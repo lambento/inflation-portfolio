@@ -1,0 +1,15 @@
+name: inflation-portfolio
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - jupyterlab
+  - notebook
+  - matplotlib
+  - numpy
+  - yfinance
+  - fredapi
+  - sqlalchemy
+  - psycopg2
+  - ipykernel

@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv/
+# data
+data/
+# Office / PowerBI binaries (optionally keep)
+*.pbix
+*.xlsx
