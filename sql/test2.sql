@@ -1,3 +1,7 @@
+
+
+
+
 SELECT product_name,
 price,
 in_stock,
